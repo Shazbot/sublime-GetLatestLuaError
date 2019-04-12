@@ -1,0 +1,3 @@
+[
+    {"caption": "Get Latest Lua Error", "command": "get_latest_lua_error"},
+]
